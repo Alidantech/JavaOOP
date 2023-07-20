@@ -52,14 +52,5 @@ public class Student {
       //       return ans;
                   
       // }
-      
-      //main method
-      public static void main(String[] args) {
-            Student student = new Student("Alidante", 20, "29, Mazeras");
-            System.out.println(student.getName());
-            System.out.println(student.getAge());
-            System.out.println(student.getAddress());
-      }
-
-      
+     
 }
